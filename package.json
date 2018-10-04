@@ -4,8 +4,8 @@
   "description": "Low level etcd v2 client written in Javascript with failover support",
   "repository": "mafintosh/etcdjs",
   "dependencies": {
-    "roundround": "0.2.0",
-    "request": "2.81.0"
+    "roundround": "0",
+    "request": "2"
   },
   "devDependencies": {
     "tape": "^4.6.3"
